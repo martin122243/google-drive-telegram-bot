@@ -6,8 +6,10 @@ class config:
     SUDO_USERS = "689406867" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/projecttradex_india"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "605263936849-ocptj3mqn2aldrrliaatsglj2qvtge59.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "605263936849-ocptj3mqn2aldrrliaatsglj2qvtge59.apps.googleusercontent.com
+"
+    G_DRIVE_CLIENT_SECRET = "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
+"
 
 
 class BotCommands:
